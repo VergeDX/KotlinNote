@@ -1,7 +1,7 @@
 # Basic Syntax
 Reference:  
-[https://www.kotlincn.net/docs/reference/basic-syntax.html](https://www.kotlincn.net/docs/reference/basic-syntax.html)  
-[https://kotlinlang.org/docs/reference/basic-syntax.html](https://kotlinlang.org/docs/reference/basic-syntax.html)
+https://www.kotlincn.net/docs/reference/basic-syntax.html
+https://kotlinlang.org/docs/reference/basic-syntax.html
 
 Package definition and imports:  
 IDEA can also offer help.
@@ -27,6 +27,10 @@ fun parseInt(str: String): Int? {
 `````
 
 # Idioms
+Reference:  
+https://www.kotlincn.net/docs/reference/idioms.html
+https://kotlinlang.org/docs/reference/idioms.html
+
 Creating DTOs (POJOs/POCOs):
 `````kotlin
 data class Customer(val name: String, val email: String)
