@@ -1,2 +1,6 @@
 # IDEA
 .idea/
+
+# Kotlin
+Test/
+out/
